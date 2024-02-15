@@ -8,6 +8,7 @@ import "./custom.scss";
 
 
 function App() {
+  console.log("Hello")
 
   return (
     <Routes>
