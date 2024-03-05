@@ -1,4 +1,4 @@
-package com.fullStackDev.Domain;
+package com.fullStackDev.domain;
 
 import com.fasterxml.jackson.annotation.JsonIgnore;
 import jakarta.persistence.*;

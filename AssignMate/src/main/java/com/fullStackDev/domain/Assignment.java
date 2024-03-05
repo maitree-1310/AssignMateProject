@@ -1,4 +1,4 @@
-package com.fullStackDev.Domain;
+package com.fullStackDev.domain;
 
 import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GenerationType;
